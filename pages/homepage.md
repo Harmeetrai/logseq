@@ -1,0 +1,5 @@
+- Weclome to my Personal Knowledge Database
+-
+- # My Areas
+- [[university]]
+-
